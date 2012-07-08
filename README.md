@@ -9,4 +9,9 @@ TesserCap is a GUI based, point and shoot CAPTCHA analysis tool with the followi
 
 The whitepaper of this tool is part of this repository.
 
+The included files are:
+
+* TesserCap User Guide.pdf - A 20+ page TesserCap user guide with extensive information on TesserCap usage.
+* TesserCap1.0.exe - TesserCap installer.
+
 For additional information please visit: http://gursevkalra.blogspot.com/2011/11/captcha-hax-with-tessercap.html 

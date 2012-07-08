@@ -1,3 +1,6 @@
+TesserCap
+=======
+
 TesserCap is a GUI based, point and shoot CAPTCHA analysis tool with the following features: 
 
 1. A generic image preprocessing engine that can be configured as per the CAPTCHA type being analyzed. 
